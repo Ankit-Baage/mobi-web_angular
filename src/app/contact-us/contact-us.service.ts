@@ -37,8 +37,8 @@ export class ContactUsService {
     },
     {
       title: 'Want to come to office? Welcome',
-      desc: "Plot No. 72, Gulmohar Marg, DLF Phase 2, Gurugram - 122002",
-      link: 'https://goo.gl/maps/V5AwXCSWBN29WBJY7',
+      desc: "18th Floor, CGN-181, DLF Capital Greens, 15 Shivaji Marg, New Delhi, West Delhi, Delhi – 110015",
+      link: 'https://maps.app.goo.gl/kmfQGro4aKe38PKX6',
       btnText: 'Locate us',
       imgMob: '../../../assets/contactUs/mob/gps.png',
       imgTab: '../../../assets/contactUs/tab/gps.png',

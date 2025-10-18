@@ -117,7 +117,7 @@ export class HomeService {
       imgDesk: '../../../assets/home/desk/perfect.png',
     },
     {
-      desc: 'Unlock new opportunities - Spares, mobile, repair or technology',
+      desc: 'Unlock new opportunities - Spares, mobile or technology',
       imgMob: '../../../assets/home/mob/unlock.png',
       imgTab: '../../../assets/home/tab/unlock.png',
       imgDesk: '../../../assets/home/desk/unlock.png',

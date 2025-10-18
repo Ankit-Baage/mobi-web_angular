@@ -68,7 +68,7 @@ export class FooterComponent implements OnInit {
     {
       heading: 'Company',
       subheadings: [
-        { title: 'About Us', href: '' },
+        { title: 'About Us', href: 'aboutUs' },
         { title: 'Our Products', href: 'products' },
         { title: 'Our Solutions', href: 'solutions' },
         // { title: 'Our Blogs', href: '' },

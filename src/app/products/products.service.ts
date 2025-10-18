@@ -15,7 +15,7 @@ export class ProductsService {
   private heads: Head[] = [
     {
       title: 'Our Products',
-      desc: 'Find your perfect phone at the perfect price with our refurbished collection.',
+      desc: 'Discover a wide selection of mobiles, electronics, spares, and accessories—designed to deliver the right product at the right price, wherever your business operates.',
       btn: 'Contact us',
       imgMob: '../../../assets/products/mob/head.png',
       imgTab: '../../../assets/products/tab/head.png',
@@ -24,8 +24,8 @@ export class ProductsService {
   ];
   private tests: Test[] = [
     {
-      title: 'Rigorous inspection',
-      desc: 'Testing process up to 51 quality checkpoints',
+      title: 'Trusted Quality, Every Time',
+      desc: 'Our products undergo thorough inspections to guarantee authenticity, durability, and consistent performance.',
       imgMob: '../../../assets/products/mob/inspection.png',
       imgTab: '../../../assets/products/tab/inspection.png',
       imgDesk: '../../../assets/products/desk/inspection.png',

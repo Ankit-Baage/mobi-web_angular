@@ -79,7 +79,7 @@ export class HomeService {
   private whyWe: WhyWe[] = [
     {
       title: 'Who Are We?',
-      desc: 'MobiGarage is a pre-owned business scaling service platform that specialises in used or previously-owned smartphones, fixing any issues they may have, and reselling them at a lower cost than brand new devices. Our platform offers a variety of services, such as procuring spare parts, cleaning and restoring the phone to like-new condition, and testing and certifying the device to ensure it is in good working order. We also offer warranties on the devices we sell.',
+      desc: 'Fuevation Technology Solutions Private Limited is a leading platform in the electronics sector, driving innovation through refurbishment, recycling, e-waste management, and liquidation of devices, accessories, and spare parts. We specialize in electronics and spares liquidation across Tier 2 and Tier 3 cities, empowering retailers and partners to participate in India’s growing circular economy while contributing to the vision of a digitally empowered nation.Guided by our mission of “Green Digital Bharat,” we are committed to building a sustainable, inclusive, and responsible electronics ecosystem. As early movers in emerging markets, we enable efficient electronic liquidation and support thousands of phone retailers and mobile kiosks in digitizing their operations and accessing reliable, cost-effective products. With operations spanning 8 states and over 50 cities, our platform—under the brand MobiGarage—has successfully sold more than 10 lacs mobiles and spares and onboarded over 21,000 retailers, establishing Fuevation as a trusted leader in India’s circular electronics economy.',
       imgMob: '../../../assets/home/mob/pc.png',
       imgTab: '../../../assets/home/tab/pc.png',
       imgDesk: '../../../assets/home/desk/pc.png',
@@ -126,21 +126,21 @@ export class HomeService {
   private reasons: Reason[] = [
     {
       title: 'Digitalizing India',
-      desc: 'We aim to digitise India through an abundant and endless supply of low cost second-hand smartphones. ',
+      desc: 'We aim to digitise India through an abundant and endless supply of electronics, spares and accessories',
       imgMob: '../../../assets/home/mob/trolley.png',
       imgTab: '../../../assets/home/tab/trolley.png',
       imgDesk: '../../../assets/home/desk/trolley.png',
     },
     {
       title: 'Green India',
-      desc: 'We contribute to a greener planet by decreasing the e-waste and increasing the lifecycle of a used device by renewing it. ',
+      desc: 'We promote circular economy practices and responsible e-waste management. Our goal is to minimize waste, maximize reuse, and build a sustainable future for generations to come.',
       imgMob: '../../../assets/home/mob/recycle1.png',
       imgTab: '../../../assets/home/tab/recycle1.png',
       imgDesk: '../../../assets/home/desk/recycle1.png',
     },
     {
-      title: 'Reaching Locals',
-      desc: 'We aspire to knit tier 2 and beyond markets by organising them and making second-hand devices available in every nook and corner of the country.',
+      title: 'Connecting Tier 2 and Beyond Markets',
+      desc: 'We empower local retailers and mobile kiosks to digitize operations and make devices, spares, and accessories accessible across every nook and corner of India, bringing organized, reliable, and affordable electronics to emerging markets.',
       imgMob: '../../../assets/home/mob/report.png',
       imgTab: '../../../assets/home/tab/report.png',
       imgDesk: '../../../assets/home/desk/report.png',
@@ -148,8 +148,8 @@ export class HomeService {
   ];
   private mobiBachat = [
     {
-      title: 'Download Bidding App',
-      desc: 'Download Bidding App now for the ultimate second-hand device bidding experience.',
+      title: 'Download the MobiGarage Marketplace App',
+      desc: 'Experience the ultimate B2R platform for buying, selling, and managing electronics, spares, and accessories—all in one place, across Tier 2, Tier 3, and emerging markets.',
       imgMob: '../../../assets/home/mob/man.png',
       imgTab: '../../../assets/home/tab/man.png',
       imgDesk: '../../../assets/home/desk/man.png',

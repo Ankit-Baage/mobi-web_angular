@@ -13,24 +13,25 @@
 
   &__content {
     height: 172px;
-    max-width: 544px;
+    max-width: 500px;
     @include flexCol;
     row-gap: 16px;
-    justify-content: space-between;
+    // justify-content: space-between;
     align-items: center;
     background: #FFFFFF;
     border: 1px solid #EEEEEE;
     border-radius: 10px;
     padding: 24px 12px;
     @include tablet {
-      padding: 28px 86px 48px;
+      padding: 20px;
       height: 210px;
-      max-width: 768px;
+      max-width: 600px;
     }
     @include desktop {
+      // justify-content: unset;
       width: 280px;
-      height: 260px;
-      padding: 29px 49px 68px 57px;
+      height: 300px;
+      padding: 20px;
     }
     &__info {
       display: flex;

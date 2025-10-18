@@ -32,7 +32,7 @@ export class SolutionsService {
   private optimizations: Optimize[] = [
     {
       title: 'Refurbishment Optimization',
-      desc: "Transform your phone with Mobigarage's spare solution",
+      desc: "Transform your phone with Fuevation's spare solution",
       imgMob: '../../assets/solutions/mob/optimize.png',
       imgTab: '../../assets/solutions/tab/optimize.png',
       imgDesk: '../../assets/solutions/desk/optimize.png',

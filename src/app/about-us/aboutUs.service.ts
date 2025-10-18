@@ -23,13 +23,13 @@ export class AboutUsService {
       desc: 'Get the <span style="color: #FF6F3F;">best price</span> on second-hand phones',
     },
     {
-      desc: '<span style="color: #FF6F3F;">Huge inventory</span> exposure and <span style="color: #FF6F3F;">management</span> system',
+      desc: 'Get the best price on <span style="color: #FF6F3F;">Mobile, Spares and Accessories</span>',
     },
   ];
   private visions: Vision[] = [
     {
-      title: 'Our Mision',
-      desc: 'Our vision is to become a trusted, reliable and eco-friendly brand in refurbished consumer electronic space.',
+      title: 'Our Vission',
+      desc: 'To transform India’s electronics ecosystem by advancing the circular economy, ensuring that technology remains accessible, sustainable, and affordable for all. Fuevation envisions a future where every device, accessory, and spare part contributes to a greener, digitally empowered Bharat.',
       imgMob: '../../../assets/aboutUs/mob/vision.png',
       imgTab: '../../../assets/aboutUs/tab/vision.png',
       imgDesk: '../../../assets/aboutUs/desk/vision.png',
@@ -38,7 +38,7 @@ export class AboutUsService {
   private missions: Mission[] = [
     {
       title: 'Our Mission',
-      desc: 'To drive digital adoption in India by simplifying the buying and selling of second-hand phones through easy and affordable solutions.',
+      desc: 'At Fuevation, our mission is to build a Green Digital Bharat by enabling the responsible refurbishment, recycling, and liquidation of electronic devices, spares, and accessories. We aim to empower retailers in Tier 2, Tier 3, and emerging cities through technology-driven platforms that digitize retail operations, reduce e-waste, and create new economic opportunities. Through continuous innovation and sustainable practices, we strive to bridge the gap between environmental responsibility and digital inclusion, driving long-term impact across India’s electronics value chain.',
       imgMob: '../../../assets/aboutUs/mob/mission.png',
       imgTab: '../../../assets/aboutUs/tab/mission.png',
       imgDesk: '../../../assets/aboutUs/desk/mission.png',

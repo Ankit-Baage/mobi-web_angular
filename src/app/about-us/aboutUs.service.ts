@@ -9,7 +9,7 @@ export class AboutUsService {
   private headings: heading[] = [
     {
       title: 'About Fuevation',
-      desc: "Want to see your planet clutter-free, clean, and green? Then switch to our refurbished technology solutions with Fuevation!",
+      desc: "Want to see your planet clutter-free, clean, and green? Want to get digitized? Want best deals on New Mobiles, Spares and Accessories? Then switch to technology and distribution solutions with Fuevation!",
       imgMob: '../../../assets/aboutUs/mob/head.png',
       imgTab: '../../../assets/aboutUs/tab/head.png',
       imgDesk: '../../../assets/aboutUs/desk/head.png',
@@ -38,7 +38,7 @@ export class AboutUsService {
   private missions: Mission[] = [
     {
       title: 'Our Mission',
-      desc: 'At Fuevation, our mission is to build a Green Digital Bharat by enabling the responsible refurbishment, recycling, and liquidation of electronic devices, spares, and accessories. We aim to empower retailers in Tier 2, Tier 3, and emerging cities through technology-driven platforms that digitize retail operations, reduce e-waste, and create new economic opportunities.Through continuous innovation and sustainable practices, we strive to bridge the gap between environmental responsibility and digital inclusion, driving long-term impact across India’s electronics value chain.',
+      desc: 'At Fuevation, our mission is to build a Green Digital Bharat by enabling the responsible recycling and distribution of electronic devices, spares and accessories. We aim to empower retailers in Tier 2, Tier 3 and emerging cities through technology-driven platforms that digitize retail operations, reduce e-waste and create new economic opportunities.Through continuous innovation and sustainable practices, we strive to bridge the gap between environmental responsibility and digital inclusion, driving long-term impact across India’s electronics value chain.',
       imgMob: '../../../assets/aboutUs/mob/mission.png',
       imgTab: '../../../assets/aboutUs/tab/mission.png',
       imgDesk: '../../../assets/aboutUs/desk/mission.png',
